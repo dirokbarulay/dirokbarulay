@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Java, Flutter, .NET Core etc.**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **dirokbarulay@gmail.com**
 
